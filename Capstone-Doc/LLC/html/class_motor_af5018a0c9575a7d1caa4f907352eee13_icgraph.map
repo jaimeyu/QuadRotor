@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_motor.html#a54561ef37a5fa68a2297d4e93271e361" title="Motor::goTo" alt="" coords="139,5,229,35"/>
+<area shape="rect" id="node7" href="$class_motor.html#aad3c7b8fdcf4ee8a21ea1f945dc70202" title="Motor::halt" alt="" coords="143,59,225,88"/>
+<area shape="rect" id="node5" href="$class_motor.html#a72a917efeba51519ab12d819a7e8a4d0" title="Motor::goToIdle" alt="" coords="279,5,388,35"/>
+</map>

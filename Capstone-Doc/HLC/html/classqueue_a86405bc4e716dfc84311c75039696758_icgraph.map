@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$serial_comm_8h.html#a4522abb213609aef74601e914564df6d" title="debugSerial" alt="" coords="167,5,257,35"/>
+<area shape="rect" id="node5" href="$hlc__v0__4_8cpp.html#afe461d27b9c48d5921c00d521181f12f" title="loop" alt="" coords="189,59,235,88"/>
+<area shape="rect" id="node9" href="$serial_comm_8h.html#a004c459b578190702d201b810facb7f3" title="processSerial0Bus" alt="" coords="147,112,277,141"/>
+<area shape="rect" id="node7" href="$hlc__v0__4_8cpp.html#a840291bc02cba5474a4cb46a9b9566fe" title="main" alt="" coords="325,59,376,88"/>
+</map>

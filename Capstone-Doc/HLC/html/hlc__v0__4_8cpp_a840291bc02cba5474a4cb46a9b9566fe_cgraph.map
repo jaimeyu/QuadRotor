@@ -1,0 +1,17 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$hlc__v0__4_8cpp.html#afe461d27b9c48d5921c00d521181f12f" title="loop" alt="" coords="109,219,155,248"/>
+<area shape="rect" id="node27" href="$hlc__v0__4_8cpp.html#a4fc01d736fe50cf5b977f755b675f11d" title="setup" alt="" coords="105,379,159,408"/>
+<area shape="rect" id="node5" href="$classmesh_network_bus.html#aa73ba3a9c2a7a66a207041f62d1f53b3" title="meshNetworkBus::getInstr" alt="" coords="231,5,404,35"/>
+<area shape="rect" id="node7" href="$classqueue.html#ab283e62655046eacdc055046ec4a2a67" title="queue::pop" alt="" coords="275,59,360,88"/>
+<area shape="rect" id="node9" href="$classqueue.html#a86405bc4e716dfc84311c75039696758" title="queue::push" alt="" coords="271,112,364,141"/>
+<area shape="rect" id="node11" href="$classmesh_network_bus.html#a9d42d4c421b4e586609eb4f91852e46a" title="meshNetworkBus::readIncoming" alt="" coords="213,165,421,195"/>
+<area shape="rect" id="node19" href="$class_prox.html#a6612a83514542aebfbf3291001800052" title="Prox::readRanges" alt="" coords="255,219,380,248"/>
+<area shape="rect" id="node21" href="$classmesh_network_bus.html#acc8807ded91a2b035a5f730951458d4d" title="meshNetworkBus::sendTelemetry" alt="" coords="209,272,425,301"/>
+<area shape="rect" id="node23" href="$hlc__v0__4_8cpp.html#a17f090243328497a048996f48e7f79ad" title="sendToI2C" alt="" coords="276,325,359,355"/>
+<area shape="rect" id="node25" href="$classqueue.html#a649db7f9f0f7b07d22280d5c1a26874e" title="queue::size" alt="" coords="273,379,361,408"/>
+<area shape="rect" id="node13" href="$classmesh_network_bus.html#a0a328cba0768bbbb13c6e715e6001f91" title="meshNetworkBus::checkInstruction" alt="" coords="487,112,713,141"/>
+<area shape="rect" id="node15" href="$classmesh_network_bus.html#ab578dda02d21cb56e7ad424b17bfa7e2" title="meshNetworkBus::processInstruction" alt="" coords="481,165,719,195"/>
+<area shape="rect" id="node17" href="$classmesh_network_bus.html#a0fd22283274a0c180a16dbcb8a3083ff" title="meshNetworkBus::readIncomingPacket" alt="" coords="475,219,725,248"/>
+<area shape="rect" id="node29" href="$hlc__v0__4_8cpp.html#abe298a3c1d98035cebe8b0535db549fa" title="initI2C" alt="" coords="288,432,347,461"/>
+<area shape="rect" id="node31" href="$hlc__v0__4_8cpp.html#a9a52aa0319b0d3bea95eff4528baee98" title="receiveEvent" alt="" coords="553,432,647,461"/>
+</map>

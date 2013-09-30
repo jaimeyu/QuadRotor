@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$_i2_ccomm_8pde.html#a9a52aa0319b0d3bea95eff4528baee98" title="receiveEvent" alt="" coords="111,5,204,35"/>
+<area shape="rect" id="node5" href="$llc__v0__3_8pde.html#abfddc85835dd2d4e46a3e3c9a56e8207" title="setMotors" alt="" coords="117,59,197,88"/>
+<area shape="rect" id="node7" href="$class_low_level_controller.html#ad249c9775badc93e32c604cd45d2b8c6" title="LowLevelController::updateMotors" alt="" coords="253,59,469,88"/>
+<area shape="rect" id="node9" href="$class_motor.html#ae5846698ab3bf21c15bd23384e54daed" title="Motor::noBeep" alt="" coords="517,59,624,88"/>
+</map>

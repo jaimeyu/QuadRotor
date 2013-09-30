@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_orientation_and_heading.html#a761e54c0559a3befd9e6e93d6d6c405d" title="OrientationAndHeading::init" alt="" coords="209,5,388,35"/>
+<area shape="rect" id="node9" href="$class_motor.html#a06518a47302582450d289537ff128ea2" title="Motor::init" alt="" coords="259,59,339,88"/>
+<area shape="rect" id="node5" href="$class_orientation_and_heading.html#a1492640bc4904a0c7a8ad6abcf58fd8b" title="OrientationAndHeading::getOffset" alt="" coords="439,5,652,35"/>
+<area shape="rect" id="node7" href="$class_orientation_and_heading.html#a6c5884b6250b0c7c4b6cb1280406a312" title="OrientationAndHeading::readADC" alt="" coords="703,5,916,35"/>
+<area shape="rect" id="node11" href="$class_motor.html#aeadf074ec4959a7700cdca4f977353d1" title="Motor::zero" alt="" coords="501,59,589,88"/>
+</map>

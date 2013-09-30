@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_low_level_controller.html#a3357e60d3e7f46d4f32665166136404e" title="LowLevelController::isWarmedUp" alt="" coords="353,36,564,65"/>
+<area shape="rect" id="node5" href="$serial_8h.html#af900d67340544f38a0f51707bfddf4e4" title="readSerial" alt="" coords="163,35,243,64"/>
+<area shape="rect" id="node7" href="$_i2_ccomm_8pde.html#a2098ce9f0f99ec4f247991a1e6b1f088" title="sendTelemetryToHLC" alt="" coords="129,88,276,117"/>
+<area shape="rect" id="node10" href="$class_low_level_controller.html#afe9f790203f6f16b825280794eabec3d" title="LowLevelController::setAllQuiet" alt="" coords="103,141,303,171"/>
+<area shape="rect" id="node12" href="$class_motor.html#ae5846698ab3bf21c15bd23384e54daed" title="Motor::noBeep" alt="" coords="405,141,512,171"/>
+</map>

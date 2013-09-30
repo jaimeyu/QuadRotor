@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_motor.html#a06518a47302582450d289537ff128ea2" title="Motor::init" alt="" coords="149,32,229,61"/>
+<area shape="rect" id="node11" href="$class_motor.html#af6106b4c506411265c5face762b6c004" title="Motor::Motor" alt="" coords="141,85,237,115"/>
+<area shape="rect" id="node5" href="$class_low_level_controller.html#a6ba8568f67aa618ebe10a645036578f7" title="LowLevelController::init" alt="" coords="285,5,440,35"/>
+<area shape="rect" id="node9" href="$class_motor.html#a040614601b98b7ca5ca97b363e23dfe4" title="Motor::Motor" alt="" coords="315,59,411,88"/>
+<area shape="rect" id="node7" href="$class_low_level_controller.html#a74a8f5b2fbe96b691b71b1ffa4bfe0aa" title="LowLevelController::LowLevelController" alt="" coords="489,5,732,35"/>
+</map>
